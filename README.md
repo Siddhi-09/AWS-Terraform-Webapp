@@ -90,13 +90,13 @@ terraform {
 
 **Screenshots**
 
-![Application Load Balancer: <img width="1392" height="561" alt="image" src="https://github.com/user-attachments/assets/5d3f41da-b8ef-4525-a132-620015de4248" />]
+<ins>Application Load Balancer:</ins> <img width="1392" height="561" alt="image" src="https://github.com/user-attachments/assets/5d3f41da-b8ef-4525-a132-620015de4248" />
 
-![Autoscaling Group in AWS: <img width="1423" height="373" alt="image" src="https://github.com/user-attachments/assets/1895d9ef-bc8b-46c4-aebd-f4005d8b9597" />]
+<ins>Autoscaling Group in AWS:</ins> <img width="1423" height="373" alt="image" src="https://github.com/user-attachments/assets/1895d9ef-bc8b-46c4-aebd-f4005d8b9597" />
 
-![DynamoDB for statelocking:  <img width="1257" height="542" alt="image" src="https://github.com/user-attachments/assets/fa54f932-4c83-40f1-ac24-f967e33029ff" />]
+<ins>DynamoDB for statelocking:</ins>  <img width="1257" height="542" alt="image" src="https://github.com/user-attachments/assets/fa54f932-4c83-40f1-ac24-f967e33029ff" />
 
-![S3 bucket to store the terraform state file:  <img width="1582" height="317" alt="image" src="https://github.com/user-attachments/assets/c92ab80a-f6a0-4aa8-a769-0e106d5de048" />
+<ins>S3 bucket to store the terraform state file:</ins>  <img width="1582" height="317" alt="image" src="https://github.com/user-attachments/assets/c92ab80a-f6a0-4aa8-a769-0e106d5de048" />
 
 
 
