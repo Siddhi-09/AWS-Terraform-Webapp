@@ -37,17 +37,18 @@ Features
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Deployment Steps
-bash
-Copy
-Edit
 
-Initialize Terraform
+
+#Initialize Terraform
+
 terraform init
 
- Preview changes
+#Preview changes
+ 
 terraform plan
 
-Apply configuration
+#Apply configuration
+
 terraform apply
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
