@@ -110,4 +110,4 @@ terraform {
 
 3. Managing Terraform remote state securely with S3 and DynamoDB
 
-4. Writing clean, reusable Terraform code for AWS provisioning**
+4. Writing clean, reusable Terraform code for AWS provisioning
